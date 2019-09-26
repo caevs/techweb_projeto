@@ -1,9 +1,7 @@
 body{
-    background: black;
+    background: rgba(85, 65, 65, 0.438);
 }
 
-.HomePage{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-    color: white;
+a.link{
+    color: brown
 }
