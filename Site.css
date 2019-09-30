@@ -1,7 +1,6 @@
 img {
     padding: 5px;
     width: 100px;
-
   }
 .letra{font-size: 30px;
 }
@@ -20,4 +19,7 @@ background: gray;
 }
 a:link{
     color:black;
+}
+logoimpacta.input:focus {
+	background-color:"#ff0000";	
 }
