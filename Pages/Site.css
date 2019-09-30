@@ -1,7 +1,20 @@
+img {
+    padding: 5px;
+    width: 150px;
+
+  }
+.letra{font-size: 30px;
+}
 body{
-    background: rgba(85, 65, 65, 0.438);
+background: gray;
 }
 
-a.link{
-    color: brown
+#rodape {
+	position: fixed;
+	bottom: 0px;
+	height: 30px;
+	width: 100%;
+	background-color: rgb(10, 10, 10);
+	z-index: 100;
+	overflow: hidden;
 }
